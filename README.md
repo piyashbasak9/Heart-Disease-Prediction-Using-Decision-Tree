@@ -1,8 +1,8 @@
-Heart Disease Prediction Using Decision Tree 🚀
-📊 Project Overview
+## Heart Disease Prediction Using Decision Tree 🚀
+## 📊 Project Overview
 This project uses Decision Tree algorithm to predict heart disease risk from patient medical data. Achieves ~85% accuracy with interpretable results that doctors can understand.
 
-✨ Features
+## ✨ Features
 303 patient records with 13 clinical features
 
 85% accuracy, 82% precision, 88% recall
